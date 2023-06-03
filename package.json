@@ -10,8 +10,12 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.18.1",
+    "@segment/analytics-react-native": "^2.15.0",
+    "@segment/sovran-react-native": "^1.0.4",
     "react": "18.2.0",
-    "react-native": "0.71.8"
+    "react-native": "0.71.8",
+    "react-native-get-random-values": "^1.9.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
